@@ -1,0 +1,23 @@
+{
+  "name": "Test Compressed NFT #208",
+  "uri": "https://solanaairdrops.github.io/SolanaDev/nft_metadata_files/nft208.json",
+  "sellerFeeBasisPoints": 500,
+  "collection": {
+    "key": "yourCollectionMintAddress",
+    "verified": false
+  },
+  "creators": [
+    {
+      "address": "yourWalletAddress",
+      "verified": false,
+      "share": 100
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Message",
+      "value": "Hurry up! Only 422/500 SOL left to claim! Monthly Giveaway!"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
+}
